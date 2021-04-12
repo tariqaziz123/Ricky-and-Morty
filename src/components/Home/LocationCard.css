@@ -1,0 +1,14 @@
+h4{
+    display: flex;
+    justify-content: center;
+    color: lime;
+}
+.location{
+    background-color: black;
+    width: fit-content;
+    float: left;
+    margin: 20px;
+}
+body{
+    background-color: firebrick;
+}
